@@ -2,7 +2,7 @@
 
 Reproducibility materials for **Prescribed-Time Control Beyond Equilibria with Terminal Phase Guarantees**.
 
-This repository contains simulation programs, experiment configurations, recorded numerical data, plotting inputs, computational methods, and the extended supplement. **The main manuscript and the submitted Technical Supplement are not included.**
+This repository contains simulation programs, experiment configurations, recorded numerical data, plotting inputs, computational methods, and the extended supplement. 
 
 ## Read the materials
 
