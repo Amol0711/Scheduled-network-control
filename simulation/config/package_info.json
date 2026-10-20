@@ -1,0 +1,36 @@
+{
+  "title": "Computational Methods and Complete Numerical Records",
+  "article_title": "Prescribed-Time Control Beyond Equilibria with Terminal Phase Guarantees",
+  "content": "Simulation programs, fixed experiment settings, numerical records, and computational methods.",
+  "document_local_ids": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05",
+    "C06",
+    "C07",
+    "C08",
+    "C09"
+  ],
+  "table_local_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+  ],
+  "numerical_equation_ids": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08",
+    "E09",
+    "E10"
+  ],
+  "license_selected": false,
+  "current_manifest": "SHA256SUMS.txt"
+}
