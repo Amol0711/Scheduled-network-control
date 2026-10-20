@@ -1,3 +1,0 @@
-# Preserve sealed bytes, including historical mixed line endings.
-# Disable Git line-ending normalization without suppressing textual diffs.
-* -text
